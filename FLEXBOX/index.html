@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+ *{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+ body{
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ p{
+     line-height: 1.9em;
+ }
+
+ .main-container{
+     padding: 20px 40px;
+     display: flex;
+ }
+
+ .main-container > div{
+     border: 1px solid black;
+     padding: 20px 40px;
+ }
+
+ .main-content{
+     flex:3;
+     order: 2;
+ }
+
+ .left-sidebar{
+    flex:1;
+    order: 1;
+ }
+
+ .right-sidebar{
+    flex:1;
+    order: 3;
+ }
+
+ .gallery-container{
+     padding: 20px 40px;
+     display: flex;
+     justify-content: space-between;
+     flex-wrap: wrap;
+ }
+
+ .gallery-container >div{
+     width: 200px;
+     height: 150px;
+     margin-bottom: 1rem;
+     background-color: #cecece;
+     padding: 20px 40px;
+ }
+
+</style>
+
+<body>
+   <div class="main-container">
+       
+    <div class="main-content">
+        <h1>Main Content</h1>
+       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laborum sed soluta quae maxime magni quas nihil quo eos totam! Quis corporis porro cumque voluptas doloribus. Cupiditate vitae incidunt minima!</p>
+       <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat iste excepturi obcaecati. Non ratione sint voluptates deserunt qui dolor facilis?</p>
+       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo deserunt quae, dolorum expedita facilis quos accusamus voluptate, blanditiis illum necessitatibus, laudantium tempore odit accusantium eligendi temporibus incidunt quaerat. Numquam, velit!</p>
+    </div>
+
+     <div class="left-sidebar">
+         <h2>Left bar</h2>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores rerum natus at beatae corrupti soluta veritatis commodi debitis molestias totam laborum a odit, sapiente saepe? Minima odit dolor doloremque repellendus.</p>
+     </div>
+     
+     <div class="right-sidebar">
+         <h2>right left-sidebar</h2>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus sed assumenda itaque fugiat voluptates nulla?</p>
+     </div>
+   </div>    
+
+   <div class="gallery-container">
+      <div>Content1</div>
+      <div>Content2</div>
+      <div>Content3</div>
+      <div>Content4</div>
+      <div>Content5</div>
+      <div>Content6</div>
+   </div>
+</body>
+</html>
