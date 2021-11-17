@@ -1,0 +1,23 @@
+<div class="mid-content">
+      <div class="history-content">
+        <h4>History</h4>
+        <hr>
+
+        <h4><b>Background and first demos (1990–1994)</b></h4>
+
+        <p>In 1990, Dave Grohl joined the grunge band Nirvana as drummer. During tours, he took a guitar with him and wrote songs, but was too intimidated to share them with the band; he was "in awe" of the songs written by frontman Kurt Cobain.[5] Grohl occasionally booked studio time to record demos and covers, issuing an album of demos, Pocketwatch, under the pseudonym Late! in 1992.[6]</p>
+
+        <br>
+        
+        <p>Nirvana disbanded after the death of Cobain in 1994. Grohl received offers to work with various artists; press rumors indicated he might join Pearl Jam,[7] and he almost accepted a position as drummer in Tom Petty and the Heartbreakers. Grohl later said: "I was supposed to just join another band and be a drummer the rest of my life. I thought that I would rather do what no one expected me to do." Grohl instead entered Robert Lang Studios in October 1994 to record 15 of his own songs.[6] With the exception of a guitar part on "X-Static", played by Greg Dulli of the Afghan Whigs, Grohl played every instrument and sang every vocal.[8] He completed an album's worth of material in five days and handed out cassette copies of the sessions to his friends for feedback.[6]</p>
+    </div>
+
+    </div>
+
+
+
+       <div class="mid-pic1">
+          <fieldset>
+        <img src="images/Foos1.jpg" class ="foos1" width="160" height="220">
+    </fieldset>
+    </div>
